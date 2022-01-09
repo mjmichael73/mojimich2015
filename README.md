@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mojimich2015
 - 👀 I’m interested in Software Engineering ,AI ,Quantum Computing And Blockchain
-- 🌱 I’m currently learning AI and Quantum Computing , ...
 - 💞️ I’m looking to collaborate on nothing for now :-)
 - 📫 ...
 
